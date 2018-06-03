@@ -1,7 +1,8 @@
 # SafeCity-Sprint-2018
 
-## OpenCity Website
-http://opencity.in/
+
+## SafeCity Website
+http://safecity.in/
 
 ## Getting started with Git
 1. https://try.github.io
