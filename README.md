@@ -1,7 +1,8 @@
 # SafeCity-Sprint-2018
-
-
-## SafeCity Website
+- [About SafeCity](https://github.com/DataKind-BLR/SafeCity-Sprint-2018/blob/master/README.md#about-safecity)
+- [Getting started with Github](https://github.com/DataKind-BLR/SafeCity-Sprint-2018/blob/master/README.md#getting-started-with-git
+) 
+## About SafeCity
 http://safecity.in/
 
 ## Getting started with Git
