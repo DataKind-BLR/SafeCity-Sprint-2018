@@ -23,6 +23,7 @@ http://opencity.in/
 2. Lab - http://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html
 
 ## Documentation of useful libraries in Python
-1. Pandas - https://readthedocs.org/projects/pandas/
-2. Scikit Learn - http://sklearn-features.readthedocs.io/en/latest/
-3. NLTK - https://nltk.readthedocs.io/en/latest/
+1. Numpy - http://www.numpy.org/
+2. Pandas - https://readthedocs.org/projects/pandas/
+3. Scikit Learn - http://sklearn-features.readthedocs.io/en/latest/
+4. NLTK - https://nltk.readthedocs.io/en/latest/
