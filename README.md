@@ -33,3 +33,4 @@ http://safecity.in/
 - Pandas - https://readthedocs.org/projects/pandas/
 - Scikit Learn - http://sklearn-features.readthedocs.io/en/latest/
 - NLTK - https://nltk.readthedocs.io/en/latest/
+- Gensim - https://radimrehurek.com/gensim/tutorial.html
