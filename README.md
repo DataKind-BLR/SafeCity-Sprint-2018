@@ -1,5 +1,6 @@
 # SafeCity-Sprint-2018
 - [About SafeCity](https://github.com/DataKind-BLR/SafeCity-Sprint-2018/blob/master/README.md#about-safecity)
+- [What would you like to solve for SafeCity?](https://github.com/DataKind-BLR/SafeCity-Sprint-2018/issues)
 - [Getting started with Github](https://github.com/DataKind-BLR/SafeCity-Sprint-2018/blob/master/README.md#about-git
 ) 
 
