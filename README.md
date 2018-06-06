@@ -6,6 +6,9 @@
 
 
 ## About SafeCity
+
+[Web](http://safecity.in/) | [Android App](https://play.google.com/store/apps/details?id=com.safecity)
+
 [Safecity](http://safecity.in/) aims to make cities safer by encouraging equal access to public spaces for everyone especially women, through the use of crowdsourced data and technology. Since the launch on 26 Dec 2012 SafeCity has collected over 10,000 stories from over 50 cities in India, Kenya, Cameroon and Nepal. Main objective of the organisation is to:
 
 • Create awareness on street harassment and abuse and get women and other disadvantaged communities to break their silence and report their personal experiences. 
