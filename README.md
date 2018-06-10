@@ -27,6 +27,8 @@ Also people can sign up for alerts either based on location or category of haras
 
 ## Data Description
 
+Rows in the dataset represent reports filed by a user.
+
 | Column(s)        | Description           | Data Type  |
 | ------------- |:-------------:| -----:|
 | INCIDENT ID      |  A unique ID for each report | String |
