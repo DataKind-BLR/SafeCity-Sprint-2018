@@ -39,7 +39,7 @@ Also people can sign up for alerts either based on location or category of haras
 
 While filing a report, you need to select a 'Category'. M-Y are the categories. 1 indicates, Yes. 0 indicates No.
 
-
+| ------------- |:-------------:| -----:|
 | M-Y | Report Category     |    Boolean |
 | Z-AD      |  Grouping of Report Category | Boolean |
 | Location       | Address    |   String |
