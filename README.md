@@ -84,10 +84,35 @@ _Other_ _Abuse_ - Poor / No Street Lighting	Chain Snatching	North East India Rep
 
 #### Getting started with Python
 - http://learnpython.org/
+- https://automatetheboringstuff.com/
 
 #### Getting started with Jupyter 
 - Notebooks - https://jupyter-notebook.readthedocs.io/en/stable/
 - Lab - http://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html
+
+#### Cloud Based Jupyter Environment
+- Colaboratory - https://colab.research.google.com
+
+#### Getting Started with Pandas
+- http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+- http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb
+- http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Data-Wrangling-with-Pandas.ipynb
+- http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section0_2-Plotting-and-Visualization.ipynb
+
+#### Hands-on NLTK Tutorial
+- https://github.com/hb20007/hands-on-nltk-tutorial
+- https://likegeeks.com/nlp-tutorial-using-python-nltk/
+
+#### Data Science with Python
+- https://github.com/donnemartin/data-science-ipython-notebooks
+- https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
+
+#### Machine Learning in Python
+- https://in.udacity.com/course/intro-to-machine-learning--ud120
+- https://github.com/ageron/handson-ml
+
+#### Deep Learning Resources
+- https://github.com/ChristosChristofidis/awesome-deep-learning
 
 #### Documentation of useful libraries in Python
 - Numpy - http://www.numpy.org/
