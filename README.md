@@ -1,7 +1,7 @@
 # SafeCity-Sprint-2018
 - [What is a Sprint?](https://github.com/DataKind-BLR/Sprint/wiki)
 - [About SafeCity](https://github.com/DataKind-BLR/SafeCity-Sprint-2018/blob/master/README.md#about-safecity)
-- [About the Dataset] _coming soon_
+- [About the Dataset](https://github.com/DataKind-BLR/SafeCity-Sprint-2018#data-description)
 - [What would you like to solve for SafeCity?](https://github.com/DataKind-BLR/SafeCity-Sprint-2018/issues)
 - [Getting started with Github](https://github.com/DataKind-BLR/SafeCity-Sprint-2018/blob/master/README.md#about-git
 ) 
