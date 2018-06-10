@@ -29,9 +29,9 @@ Also people can sign up for alerts either based on location or category of haras
 
 | Column(s)        | Description           | Data Type  |
 | ------------- |:-------------:| -----:|
-| Incident ID      |  A unique ID for each report | String |
-| Incident title       | A title provided by the victim      |   String |
-| Date | Date in mm/dd/yy     |    String |
+| INCIDENT ID      |  A unique ID for each report | String |
+| INCIDENT TITLE       | A title provided by the victim      |   String |
+| DATE | Date in mm/dd/yy     |    String |
 | D-G      |  Values Derived from Date| String |
 | TIME       | Time in hh:mm      |   String |
 | I-K | Values Derived from Time     |    String |
@@ -50,6 +50,13 @@ While filing a report, you need to select a 'Category'. M-Y are the categories. 
 | Locality Code | Locality Code    |    String |
 | Latitude   |  Latitude of the Incident | String |
 | LONGITUDE     |  Longitude of the Incident   |   String |
+
+#### Grouping of categories
+Verbal Abuse - Catcalls, Commenting, Sexual Invites
+Non-Verbal Abuse - Ogling/Facial Expression/Staring, Indecent Exposure
+Physical Abuse - Touching/Groping, Stalking
+Serious Physical Abuse - Rape/ Sexual Assualt
+Other Abuse - Poor / No Street Lighting	Chain Snatching	North East India Report	Others
 
 
 ## About Git
