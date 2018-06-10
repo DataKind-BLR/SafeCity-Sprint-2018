@@ -53,9 +53,17 @@ While filing a report, you need to select a 'Category'. M-Y are the categories. 
 
 #### Grouping of categories
 Verbal Abuse - Catcalls, Commenting, Sexual Invites
+
+
 Non-Verbal Abuse - Ogling/Facial Expression/Staring, Indecent Exposure
+
+
 Physical Abuse - Touching/Groping, Stalking
+
+
 Serious Physical Abuse - Rape/ Sexual Assualt
+
+
 Other Abuse - Poor / No Street Lighting	Chain Snatching	North East India Report	Others
 
 
