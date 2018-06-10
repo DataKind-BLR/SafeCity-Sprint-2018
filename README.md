@@ -25,6 +25,30 @@ Target group are women/girls who are victims of sexual harassment. SafeCity is c
 
 Also people can sign up for alerts either based on location or category of harassment. This allows people to understand the “safety” landscape of an area and make the most informed decision for themselves. 
 
+## Data Description
+
+| Column(s)        | Description           | Data Type  |
+| ------------- |:-------------:| -----:|
+| Incident ID      |  A unique ID for each report | String |
+| Incident title       | A title provided by the victim      |   String |
+| Date | Date in mm/dd/yy     |    String |
+| D-G      |  Values Derived from Date| String |
+| TIME       | Time in hh:mm      |   String |
+| I-K | Values Derived from Time     |    String |
+| DESCRIPTION | Description of the report | String |
+
+While filing a report, you need to select a 'Category'. M-Y are the categories. 1 indicates, Yes. 0 indicates No.
+
+
+| M-Y | Report Category     |    Boolean |
+| Z-AD      |  Grouping of Report Category | Boolean |
+| Location       | Address    |   String |
+| Country Code | Country Code  |    String |
+| City Code      |  City Code | String |
+| Area Code      |  Area Code   |   String |
+| Locality Code | Locality Code    |    String |
+| Latitude   |  Latitude of the Incident | String |
+| LONGITUDE     |  Longitude of the Incident   |   String |
 
 
 ## About Git
