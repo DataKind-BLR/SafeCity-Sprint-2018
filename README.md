@@ -51,20 +51,20 @@ While filing a report, you need to select a 'Category'. M-Y are the categories. 
 | Latitude   |  Latitude of the Incident | String |
 | LONGITUDE     |  Longitude of the Incident   |   String |
 
-#### Grouping of categories
-Verbal Abuse - Catcalls, Commenting, Sexual Invites
+### Grouping of categories
+_Verbal_ _Abuse_ - Catcalls, Commenting, Sexual Invites
 
 
-Non-Verbal Abuse - Ogling/Facial Expression/Staring, Indecent Exposure
+_Non-Verbal_ _Abuse_ - Ogling/Facial Expression/Staring, Indecent Exposure
 
 
-Physical Abuse - Touching/Groping, Stalking
+_Physical_ _Abuse_ - Touching/Groping, Stalking
 
 
-Serious Physical Abuse - Rape/ Sexual Assualt
+_Serious_ _Physical_ _Abuse_ - Rape/ Sexual Assualt
 
 
-Other Abuse - Poor / No Street Lighting	Chain Snatching	North East India Report	Others
+_Other_ _Abuse_ - Poor / No Street Lighting	Chain Snatching	North East India Report	Others
 
 
 ## About Git
